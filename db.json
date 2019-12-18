@@ -1,17 +1,12 @@
 {
 "posts": [
         {
+          "userId": 1,
           "id": 1,
-          "title":"index"
+           "title": "szczerze nie wyglada to bardzo dobrze",
+           "body": "czy to dziala w taki sposob jaki ja chce?"
         }
     ],
-        
-      "posts": [
-              {
-                      "id" : 2,
-                      "title":"niech cos sie dzieje"
-              }
-              ]
         
         "profile":{
         "name" : "Korikadze"
