@@ -5,5 +5,9 @@
           "title":"Poczta Polska"
         }
     ],
+        
+        "profile":{
+        "name" : "typicode"
+        }
 
 }
